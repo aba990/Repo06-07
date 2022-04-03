@@ -4,25 +4,10 @@ body {position: absolute;
 h1 {
     text-align: center;
     color: red;
+    font-size: medium;
 }
 
 .first1 { 
     display: flex;
     width: auto;
-    padding-inline: 15px;
-}
-
-
-
-.naslov {
-    color: aqua;
-    
-}
-p {
-    
-    max-width: fit-content;
-    max-height: fit-content;
-    text-align: center;
-    text-align: justify;
-}
-    
+    padding-left: 15px;
